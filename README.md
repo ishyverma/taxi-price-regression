@@ -624,9 +624,9 @@ Update the table below with the actual values obtained after running the noteboo
 
 | Model                      | MAE         | MSE         | RMSE        | R²          |
 | -------------------------- | ----------- | ----------- | ----------- | ----------- |
-| Mean Baseline              | `ADD_VALUE` | `ADD_VALUE` | `ADD_VALUE` | `ADD_VALUE` |
-| Simple Linear Regression   | `ADD_VALUE` | `ADD_VALUE` | `ADD_VALUE` | `ADD_VALUE` |
-| Multiple Linear Regression | `ADD_VALUE` | `ADD_VALUE` | `ADD_VALUE` | `ADD_VALUE` |
+| Mean Baseline              | `26.60`     | `2354.96`   | `48.52`     | `-0.007`    |
+| Simple Linear Regression   | `16.92`     | `572.47`    | `23.92`     | `0.75`      |
+| Multiple Linear Regression | `9.93`      | `289.98`    | `17.02`     | `0.87`      |
 
 
 
